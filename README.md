@@ -41,7 +41,9 @@ pip install pandas scikit-learn nltk numpy
 - Sentiment Classification: Predicting the sentiment label for each post.
 
 **Insights**
+
 This project provides a foundation for sentiment analysis using basic NLP methods, suitable for applications in social media monitoring, customer feedback analysis, and opinion mining.
 
 **License**
+
 This project is licensed under the MIT License.
