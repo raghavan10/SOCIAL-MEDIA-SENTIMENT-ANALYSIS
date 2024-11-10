@@ -26,19 +26,22 @@ This project involves analyzing a large dataset of around 30,000 social media po
 
 Install the required libraries with:
 
-bash
-Copy code
+```bash
 pip install pandas scikit-learn nltk numpy
-Usage
-Clone the repository.
-Run the preprocessing script to clean and vectorize the data.
-Execute the model script to train the Naive Bayes model and predict sentiment on new statements.
-Key Components
-Data Cleaning: Tokenization, removal of stop words, and other preprocessing steps.
-Text Vectorization: Transforming text data into numerical features.
-Sentiment Classification: Predicting the sentiment label for each post.
-Insights
+```
+
+**Usage**
+- Clone the repository.
+- Run the preprocessing script to clean and vectorize the data.
+- Execute the model script to train the Naive Bayes model and predict sentiment on new statements.
+
+**Key Components**
+- Data Cleaning: Tokenization, removal of stop words, and other preprocessing steps.
+- Text Vectorization: Transforming text data into numerical features.
+- Sentiment Classification: Predicting the sentiment label for each post.
+
+**Insights**
 This project provides a foundation for sentiment analysis using basic NLP methods, suitable for applications in social media monitoring, customer feedback analysis, and opinion mining.
 
-License
+**License**
 This project is licensed under the MIT License.
